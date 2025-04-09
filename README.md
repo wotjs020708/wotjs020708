@@ -1,5 +1,7 @@
-<div align=center>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wotjs020708&show_icons=true&theme=dark&locale=en" alt="wotjs020708" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wotjs020708&ayout=&layout=compact&theme=dark" /></p>
-</div>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wotjs020708&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/wotjs020708"
+  width="600"
+  height="300"
+/>
+</a>
