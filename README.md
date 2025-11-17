@@ -12,6 +12,8 @@
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
 
 ### Activities
+- `2025` 구름톤 유니브 시즌톤 데모데이 SPARK-UP 참여
+- `2025` 제12회 전국 ICT 융합 공모전 참여
 - `2025` 대학생 IT 벤처 창업 동아리 SOPT 37기 YB iOS 파트 `현재`
 - `2025` 구름톤 유니브 4기 시즌톤 본선 참여
 - `2025` 구름톤 유니브 4기 시즌톤 예선 참여
