@@ -19,6 +19,7 @@
 | Year | Award | Organization |
 |------|-------|-------------|
 | 2025 | 대상 · 구름톤 유니브 시즌톤 데모데이 SPARK-UP | 구름톤 유니브 |
+| 2025 | 인기상 · SOPKATHON "DIVE INTO THE MOMENT" | SOPT |
 | 2025 | 우수상 · 제12회 전국 ICT융합 공모전 | — |
 | 2024 | 우수상 · UNITED HACKATHON | 구름톤 유니브 |
 | 2024 | 최우수상 · 앱/iOS스쿨 5기 최종 프로젝트 | 멋쟁이사자처럼 |
@@ -32,16 +33,15 @@
 - `2024` 멋쟁이사자처럼 앱/iOS스쿨 5기 수료
 
 **Community**
-- `2025 ~ 2026` SOPT 37기 iOS 파트 (대학생 IT 벤처 창업 동아리)
+- `2025 ~ 현재` SOPT 37기 iOS 파트 (대학생 IT 벤처 창업 동아리)
+- `2025` SOPT 37기 앱잼 "SYSTEM UPDATE: [SUNRISE]" 데모데이
 - `2024 ~ 2025` 구름톤 유니브 3·4기 수료
 
 **Hackathons**
+- `2025` SOPKATHON "DIVE INTO THE MOMENT"
 - `2025` 구름톤 유니브 시즌톤 예선·본선, 구아이톤
 - `2025` 제12회 전국 ICT 융합 공모전
 - `2024` 구름톤 유니브 UNITED HACKATHON, 가을 예선
 
 <br>
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wotjs020708&show_icons=true&theme=dracula)
